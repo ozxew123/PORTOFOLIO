@@ -10,8 +10,8 @@ const projects = [
     title: "Portofolio Website",
     desc: "Sebuah situs web portofolio pribadi yang dirancang dengan estetika *pixel-art* yang bersih, serta dilengkapi elemen interaktif, tampilan proyek, dan tata letak responsif. Situs ini dibangun untuk menampilkan karya kreatif, keterampilan teknis, dan proyek pengembangan dalam sebuah pengalaman digital yang unik.",
     tech: ["HTML5", "CSS3","Google Fonts", "JavaScript", ],
-    github: "https://github.com/ozxew123",
-    image: "pixel-art.png" // Sesuaikan jika ada gambar untuk project ini
+    github: "https://github.com/ozxew123/PORTOFOLIO",
+    image: "portofolio.png" // Sesuaikan jika ada gambar untuk project ini
   },
 ];
 
